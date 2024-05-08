@@ -10,9 +10,13 @@
   },
   "dependencies": {
     "expo": "~48.0.10",
+    "expo-asset": "~8.9.1",
+    "expo-file-system": "~15.2.2",
+    "expo-leaflet": "^1.0.3",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.6"
+    "react-native": "0.71.6",
+    "react-native-webview": "11.26.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
